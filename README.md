@@ -1,3 +1,3 @@
-# coppock-curve-trader
+# coppock-curve-trader https://medium.com/@bondethan/how-to-begin-algorithmic-trading-in-python-981edd51baa1
 
-SAMPLE CODE - TAKEN OUT OF CONTEXT FOR ARCHITECTURE DEMONSTRATION.
+SAMPLE CODE - annotated for key parts.
